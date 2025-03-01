@@ -14,14 +14,14 @@ Each agent's **installation instructions** and **execution steps** are included 
 
 Each agent's **installation instructions** and **execution steps** are included directly within its Python file. You can easily set up and run them by following the provided guidelines.
 
-### 🛠️ MCP Agents
+### [🛠️ MCP Agents](https://github.com/Upsonic/cookbook/tree/master/examples/mcp)
 
 - 🛡️ **Code Reviewer Fixer**
 - 🔍 **GitHub Repo Analyzer**
 - 📍 **Nearby Event Finder**
 - 🏛️ **On The Road Museum Travel Planner**
 
-### 🌍 Browser-Use Agents
+### [🌍 Browser-Use Agents](https://github.com/Upsonic/cookbook/tree/master/examples/browser-use)
 
 - 💰 **Cheapest Product Price Finder**
 - 📈 **Investment Analyst**
@@ -29,7 +29,7 @@ Each agent's **installation instructions** and **execution steps** are included 
 - 📰 **Stocks News Scraper**
 - 🏪 **Supermarket Price Comparator**
 
-### 🔎 Other Agents
+### [🔎 Other Agents](https://github.com/Upsonic/cookbook/tree/master/examples/others)
 
 - 📊 **SerpAPI Keyword Trend Analyzer**
 
